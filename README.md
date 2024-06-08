@@ -18,5 +18,5 @@ I am a Data Analyst 📈 at TCS with a strong aspiration to become a Data Scient
 
 ## Connect with Me
 
-- [Website](vigneshwarr.com)
+- [Website](https://vigneshwarr.com/)
 - [LinkedIn](https://www.linkedin.com/in/vigneshwar-r-994b86162/)
