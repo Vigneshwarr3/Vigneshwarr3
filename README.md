@@ -2,11 +2,9 @@
 
 ## About Me
 
-I am a Data Analyst 📈 at TCS with a strong aspiration to become a Data Scientist / Research Scientist.
-
-- 🔭 Currently working at **TCS** as a Data Analyst.
+- 🔭 Currently a graduate student 🎓 at Indiana University Indianapolis 🏛️ majoring in Applied Data Science.
 - 🌱 Pursuing a **Data Science & Machine Learning Course** at **Scaler**.
-- 🎓 Incoming Masters student at **Indiana University Indianapolis** majoring in Applied Data Science.
+- 🎓 Previously a Data Analyst with an work experience of nearly 4 years.
 
 ## Skills
 
