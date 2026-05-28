@@ -1,20 +1,19 @@
 # Hi there, I'm Vigneshwar 👋
 
 ## About Me
-
-- 🔭 Currently a graduate student 🎓 at Indiana University Indianapolis 🏛️ majoring in Applied Data Science.
-- 🌱 Pursuing a **Data Science & Machine Learning Course** at **Scaler**.
-- 🎓 Previously a Data Analyst with an work experience of nearly 4 years.
+- 🎓 MS in Applied Data Science — Indiana University Indianapolis (2025)
+- 💼 4+ years of industry experience as an ML Engineer at Tata Consultancy Services
+- 🔭 Currently building production AI systems — agentic pipelines, LLM apps, and end-to-end ML services
+- 🌱 Always learning — currently exploring multi-agent orchestration and causal inference
 
 ## Skills
+- **ML & AI:** PyTorch, Scikit-learn, BERT, Transformers, ViT, Fine-tuning LLMs, RAG, LangGraph
+- **NLP & Data Extraction:** NER, spaCy, Regex, BeautifulSoup, Selenium
+- **Data Engineering:** Apache Airflow, PySpark, PostgreSQL, Pandas, NumPy
+- **Deployment & MLOps:** FastAPI, Docker, GitHub Actions, AWS
+- **Visualization & BI:** PowerBI, Matplotlib, Seaborn
+- **Languages:** Python, SQL, R, Excel VBA
 
-- **Programming Languages:** Python, R, SQL
-- **Frameworks and Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scipy
-- **Tools and Platforms:** Jupyter, Tableau
-- **Other Skills:** Data Visualization, Statistical Analysis
 
-
-## Connect with Me
-
-- [Website](https://vigneshwarr.com/)
-- [LinkedIn](https://www.linkedin.com/in/vigneshwar-r-994b86162/)
+## Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vigneshwarravirao)
